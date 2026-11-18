@@ -1,0 +1,28 @@
+# Private configuration and local deployment mappings (at any depth)
+config.h
+.clasp.json
+.clasprc*
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# PlatformIO / firmware output
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.a
+
+# Editor / OS / runtime artifacts
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+*.log
