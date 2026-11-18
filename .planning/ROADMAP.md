@@ -7,6 +7,6 @@ Only milestone: DAF-29 archival publication.
 **Requirements:** ARCH-01, ARCH-02, ARCH-03, ARCH-04
 **Plans:** 1 quick plan
 
-- [ ] `.planning/quick/20261118-daf-29-publish/PLAN.md` — Archive sources, document history, validate and publish.
+- [x] `.planning/quick/20261118-daf-29-publish/PLAN.md` — Archive sources, document history, validate and publish. Source commit `4cc71e0`; remote contents verified.
 
 No firmware enhancement or deployment milestone is implied.
